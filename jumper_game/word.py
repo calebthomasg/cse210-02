@@ -10,3 +10,4 @@ class Word:
 
         words = ["clown", "lunch", "towel", "faith", "scowl", "cloth", "video", "piano", "horse", "stone"]
         self.value = random.choice(words)
+        

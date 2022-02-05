@@ -35,3 +35,4 @@ class Director:
         else:
             """Remove a piece of the parachute"""
     
+    

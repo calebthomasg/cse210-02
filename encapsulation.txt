@@ -1,0 +1,7 @@
+I think that we can use the encapsulation method mainly in our Director() class.
+We can use it on the self._word variable to make sure that the word isn't changed or altered
+in that class. We can also use it for the self.score variable so that the score doesn't
+change outside of the class. By doing this, we'll make sure that these two variables aren't
+accidently altered outside of their respective classes, keeping the data private and secure.
+We might also need to do this to the board function depending on whether we decide to keep it a
+function or turn it into a class.
